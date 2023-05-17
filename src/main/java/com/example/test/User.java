@@ -9,6 +9,4 @@ public class User {
     private String nickName;
     private int age;
     private boolean femeal;
-
-    
 }
